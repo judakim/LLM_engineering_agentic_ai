@@ -7,8 +7,6 @@ import time
 
 options = Options()
 # options.add_argument("--headless=new")  # headless mode (new headless for chrome)
-# options.add_argument("--no-sandbox")
-# options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Chrome(
     service=Service(ChromeDriverManager().install()), options=options
@@ -20,8 +18,6 @@ try:
     courses = driver.find_elements(
         By.CLASS_NAME,
         "courseListingPage_cardLayout__multW",
-        # "courseListingPage_courseCardsGrid__VYBzZ",
-        # "div.ui.cards.courseListingPage_cardLayout__multW.",
     )
     results = []
     for course in courses:

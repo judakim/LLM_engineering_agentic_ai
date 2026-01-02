@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "type": "weather",
+    "city": "تهران",
+    "temperature": 16,
+    "condition": "ابری",
+    "description": "وضعیت آب‌وهوای شهر تهران امروز خنک است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "weather",
+    "city": "مشهد",
+    "temperature": 31,
+    "condition": "ابری",
+    "description": "وضعیت آب‌وهوای شهر مشهد امروز نسبتاً گرم است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "weather",
+    "city": "اصفهان",
+    "temperature": 36,
+    "condition": "ابری",
+    "description": "وضعیت آب‌وهوای شهر اصفهان امروز خنک است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "weather",
+    "city": "شیراز",
+    "temperature": 36,
+    "condition": "ابری",
+    "description": "وضعیت آب‌وهوای شهر شیراز امروز نسبتاً گرم است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "weather",
+    "city": "تبریز",
+    "temperature": 37,
+    "condition": "آفتابی",
+    "description": "وضعیت آب‌وهوای شهر تبریز امروز مناسب است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "weather",
+    "city": "رشت",
+    "temperature": 16,
+    "condition": "آفتابی",
+    "description": "وضعیت آب‌وهوای شهر رشت امروز خنک است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "weather",
+    "city": "یزد",
+    "temperature": 30,
+    "condition": "ابری",
+    "description": "وضعیت آب‌وهوای شهر یزد امروز مناسب است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "weather",
+    "city": "کیش",
+    "temperature": 14,
+    "condition": "آفتابی",
+    "description": "وضعیت آب‌وهوای شهر کیش امروز نسبتاً گرم است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "weather",
+    "city": "قشم",
+    "temperature": 9,
+    "condition": "بارانی",
+    "description": "وضعیت آب‌وهوای شهر قشم امروز خنک است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "weather",
+    "city": "اهواز",
+    "temperature": 30,
+    "condition": "بارانی",
+    "description": "وضعیت آب‌وهوای شهر اهواز امروز نسبتاً گرم است",
+    "tags": [
+      "آب‌وهوا"
+    ]
+  }
+]
